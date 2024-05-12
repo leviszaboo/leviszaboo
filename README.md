@@ -13,7 +13,7 @@
       <h3>Hi, I'm Levi! 🥷🏻</h3>
       <p>I'm an aspiring software engineer, based in Amsterdam, The Netherlands. 👨🏻‍💻</p>
       <p>
-        I'm studying BSc Computer Science at the Vrije Universiet, following a second bachelors in Economics at the University of Amsterdam. 🎓 <br>
+        I'm studying BSc Computer Science at the Vrije Universiet Amsterdam, following a second bachelors in Economics at the University of Amsterdam. 🎓 <br>
         I have great analytical and statistical skills and a good eye for detail. ☝🏻🤓 <br>
         In my free time, besides programming, I enjoy hiking, travelling, snowboarding and generally spending time in nature. 🏔️
       </p>
