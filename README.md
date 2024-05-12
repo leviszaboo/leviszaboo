@@ -28,6 +28,7 @@
         <li>
           The Linux Operating System ⚙️
         </li>
+      </ul>
     </td>
   </tr>
   <tr>
