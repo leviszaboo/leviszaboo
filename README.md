@@ -10,7 +10,7 @@
       </div>
     </td>
     <td rowspan="2" width="50%" valign="top">
-      <h3>Hello, I'm Levi! 🥷🏻</h3>
+      <h3>Hi, I'm Levi! 🥷🏻</h3>
       <p>I'm an aspiring software engineer, based in Amsterdam, The Netherlands. 👨🏻‍💻</p>
       <p>
         I'm studying BSc Computer Science at the Vrije Universiet, following a second bachelors in Economics at the University of Amsterdam. 🎓 <br>
